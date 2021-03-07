@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#Katherine's Header
+##Row 2
+###Row 3
