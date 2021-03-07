@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Child](https://variety.com/wp-content/uploads/2020/07/the-mandalorian-baby-yoda.jpg)
